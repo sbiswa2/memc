@@ -1,2 +1,0 @@
--MEMC agent for input node
----Input port node
